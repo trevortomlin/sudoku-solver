@@ -1,5 +1,4 @@
 # Sudoku Solver
-
 A Python-based Sudoku solver that fetches a puzzle from an external API and solves it using the Z3 theorem prover.
 
 ## Requirements:
@@ -15,10 +14,9 @@ pip install requests z3-solver
 ## Usage:
 1. Clone this repository:
 git clone https://github.com/trevortomlin/sudoku-solver.git
-cd sudoku-solver
 
 2. Run the script:
-python sudoku_solver.py
+python main.py
 
 ## License:
 This project is licensed under the MIT License. See the LICENSE file for details.
