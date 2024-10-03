@@ -14,7 +14,7 @@ pip install requests z3-solver
 
 ## Usage:
 1. Clone this repository:
-git clone https://github.com/yourusername/sudoku-solver.git
+git clone https://github.com/trevortomlin/sudoku-solver.git
 cd sudoku-solver
 
 2. Run the script:
